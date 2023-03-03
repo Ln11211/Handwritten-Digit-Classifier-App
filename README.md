@@ -1,7 +1,7 @@
 # Handwritten-Digit-Classifier-App
 This Kotlin app's primary purpose is to recognize the handwritten digits. The digits are drawn on a blackboard provided in the app.
 
-![8](https://user-images.githubusercontent.com/91385411/222761335-26b95adb-78c7-4b0e-8eef-267887c85b5e.gif)
+![8](https://user-images.githubusercontent.com/91385411/222761988-674b49aa-a33a-4113-a1c1-1e5026512856.gif)
 
 A Convolution Neural Netwrok is used to make inferences. The CNN is trained on the MNIST dataset and the model can predict only single digit.
 
