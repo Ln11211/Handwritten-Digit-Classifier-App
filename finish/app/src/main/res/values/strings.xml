@@ -1,7 +1,0 @@
-<resources>
-  <string name="app_name" translatable="false">Digit Classifier</string>
-  <string name="clear_button_text">Clear</string>
-  <string name="wrong_text">Wrong?</string>
-  <string name="prediction_text_placeholder">❤Hello Please draw a digit</string>
-  <string name="classification_error_message">Error classifying drawing: %s</string>
-</resources>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="clear_button_text">చెరిపివేయు</string>
-    <string name="wrong_text">తప్పు?</string>
-    <string name="prediction_text_placeholder">❤హలో దయచేసి ఒక అంకె గీయండి</string>
-    <string name="classification_error_message">ఈ డ్రాయింగ్‌ని వర్గీకరించడంలో లోపం ఏర్పడింది: %s</string>
-</resources>
