@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     wrongButton?.setOnClickListener {
-     Toast.makeText(this@MainActivity,"Toh mai kya karu? Jaa Gaand maar",Toast.LENGTH_SHORT).show()
+     Toast.makeText(this@MainActivity,"Looks like the model needs more training",Toast.LENGTH_SHORT).show()
     }
 
     // Setup classification trigger so that it classify after every stroke drew.
